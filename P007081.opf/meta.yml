@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W00KG09825
   title: རིས་མེད་ཆོས་འབྱུང་
-  volume: ''
+  volume:
+    f73fdb9ca9054f7dae946771bbd96b54:
+      image_group_id: I00KG09867
+      title: Volume 1 of kong sprul ris med chos 'byung
+      volume_number: 1
+      total_pages: 54
   author: ''
+ebook_metadata:
+  title: རིས་མེད་ཆོས་འབྱུང་
+  author: ''
+  sku: P007081
+  cover: cover.jpg
+  layers:
+  - pagination
