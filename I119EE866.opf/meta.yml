@@ -1,0 +1,27 @@
+id: I119EE866
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-30T20:49:28+00:00'
+last_modified: '2022-06-09T04:40:05.429473+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W00KG09825
+  title: རིས་མེད་ཆོས་འབྱུང་
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: true
+  base:
+    4AE2:
+      image_group_id: I00KG09867
+      title: Volume 1 of kong sprul ris med chos 'byung
+      total_pages: 54
+      order: 1
+      base_file: 4AE2.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
